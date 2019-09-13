@@ -105,13 +105,13 @@
     "pointer": {
       "latitude": 59.969511,
       "longitude": 30.315615,
-      "zoom": 5
+      "zoom": 12
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 59.969511,
+      "longitude": 30.315615
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in SPb, which can fulfill the needs of the large-scale event"
   },
   "mediaQueries": {
     "xs": {
