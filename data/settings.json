@@ -3,7 +3,7 @@
     "name": "GDG SPb",
     "twitter": "gdgspb",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "https://www.meetup.com/ru-RU/gdgspb/"
   },
   "startDate": "2019-11-23T10:00:00+03:00",
   "endDate": "2019-11-23T19:21:00+03:00",
@@ -15,7 +15,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest19",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -114,12 +114,12 @@
   "location": {
     "label": "Location",
     "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "city": "Saint-Petersburg",
+    "short": "Saint-Petersburg, Russia",
+    "address": "Prospekt Medikov, 3, Sankt-Peterburg, Russia",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 59.969511,
+      "longitude": 30.315615,
       "zoom": 5
     },
     "mapCenter": {
@@ -148,23 +148,23 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/ru-RU/gdgspb/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/gdgspbru/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": ""
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": ""
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCk5zBP_-iAkLjDUE3X_jJ0g"
       }
     ],
     "share": [
