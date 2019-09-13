@@ -1,12 +1,12 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
+    "name": "GDG SPb",
+    "twitter": "gdgspb",
     "blog": "https://medium.com/gdg-lviv",
     "url": "http://lviv.gdg.org.ua/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-11-23T10:00:00+03:00",
+  "endDate": "2019-11-23T19:21:00+03:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
