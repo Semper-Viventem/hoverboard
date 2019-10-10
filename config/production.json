@@ -1,7 +1,7 @@
 {
   "basepath": "/",
-  "url": "https://devfest.space/",
-  "analytics": "UA-80460149-5",
+  "url": "https://gdg-spb.firebaseapp.com/",
+  "analytics": "UA-43643469-8",
   "prefix": "/",
   "firebase": {
     "appId": "1:374419255592:web:4572e82e225735a440601d",
